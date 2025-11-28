@@ -11,7 +11,7 @@ Features of this STL Export Script:
 
 What it exports:
 
-1. ll components in the design
+1. All components in the design
 2. All occurrences in the assembly
 3. Each as separate STL files with original names
 
